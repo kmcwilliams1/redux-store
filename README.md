@@ -30,7 +30,7 @@ THEN I find that the app passes reducers to a Redux store instead of using the C
 WHEN I review the way the app extracts state data from the store
 THEN I find that the app uses Redux instead of the Context API
 WHEN I review the way the app dispatches actions
-THEN I find that the app uses Redux instead of the Context API
+THEN I find that the app uses Redux instead of the Context API ok!! <all './components'>
 ```
 
 ## Mock-Up
